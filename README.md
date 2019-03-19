@@ -1,0 +1,2 @@
+# Azure Compatible Icons
+### A Modification on the [Plane Icon Theme](https://github.com/wfpaisa/plane-icon-theme), such as an addition of panel icons from [Papirus Light](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus-Light)
